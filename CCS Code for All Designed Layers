@@ -1,0 +1,5699 @@
+ # CCS Code for All Designed Layers 
+/* MacBook Pro 16" - 1 */
+
+position: relative;
+width: 1728px;
+height: 5478px;
+
+background: linear-gradient(247.89deg, #1CB4BC 18.32%, #0D5256 94.64%);
+
+
+/* Frame 2 */
+
+position: absolute;
+width: 1728px;
+height: 1155px;
+left: 0px;
+top: 0px;
+overflow-x: scroll;
+
+
+
+/* image 2 */
+
+position: absolute;
+width: 1728px;
+height: 1155px;
+left: 0px;
+top: 0px;
+
+background: url(image);
+
+
+/* “ Experience the road in luxury, with our fleet “ */
+
+position: absolute;
+width: 698px;
+height: 160px;
+left: 121px;
+top: 629px;
+
+font-family: 'Milonga';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 80px;
+
+color: #C1DFD4;
+
+
+
+/* Ready to roll? Book here! */
+
+position: absolute;
+width: 554px;
+height: 60px;
+left: 158px;
+top: 813px;
+
+font-family: 'Milonga';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 60px;
+/* identical to box height */
+
+background: linear-gradient(202.61deg, #C1DFD4 -14.71%, #697973 298.89%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Group 1 */
+
+position: absolute;
+width: 1476.97px;
+height: 216px;
+left: 201px;
+top: 904px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 398.97px;
+height: 117px;
+left: 201px;
+top: 904px;
+
+background: rgba(255, 254, 254, 0.01);
+box-shadow: 8px 10px 0px -1px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(22.5px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 209px;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 398.97px;
+height: 117px;
+left: 1279px;
+top: 1003px;
+
+background: rgba(255, 254, 254, 0.01);
+box-shadow: 8px 10px 0px -1px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(22.5px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 209px;
+
+
+/* Book Now */
+
+position: absolute;
+width: 308px;
+height: 80px;
+left: 246px;
+top: 923px;
+
+font-family: 'Milonga';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 80px;
+/* identical to box height */
+
+background: linear-gradient(180deg, #C1DFD4 31.25%, #101010 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Swipe */
+
+position: absolute;
+width: 179px;
+height: 80px;
+left: 1324px;
+top: 1022px;
+
+font-family: 'Milonga';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 80px;
+/* identical to box height */
+
+background: linear-gradient(180deg, #C1DFD4 31.25%, #101010 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* image */
+
+position: absolute;
+width: 2156px;
+height: 1152px;
+left: 2237px;
+top: 0px;
+
+background: url(image);
+
+
+/* delivers all the feel and technology of a genuine race car” Click it */
+
+position: absolute;
+width: 1015px;
+height: 160px;
+left: 2360px;
+top: 906px;
+
+font-family: 'Milonga';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 80px;
+
+background: linear-gradient(94.86deg, #CCBC7B -94.92%, #1E1E1E 76.1%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Vector */
+
+position: absolute;
+height: 25px;
+left: 91.55%;
+right: 6.64%;
+top: calc(50% - 25px/2 + 495px);
+
+box-shadow: -8px 0px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 1728px;
+height: 490px;
+left: 0px;
+top: 3999px;
+
+background: #2E4958;
+border-radius: 25px;
+
+
+/* Rectangle 38 */
+
+position: absolute;
+width: 1728px;
+height: 490px;
+left: 0px;
+top: 3167px;
+
+background: #000000;
+border-radius: 25px;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 790px;
+height: 843px;
+left: 840px;
+top: 2195px;
+
+background: #BEDBD0;
+border-radius: 25px;
+
+
+/* Goo V */
+
+position: absolute;
+width: 232px;
+height: 91px;
+left: 72px;
+top: 69px;
+
+font-family: 'Magneto';
+font-style: normal;
+font-weight: 700;
+font-size: 75px;
+line-height: 91px;
+/* identical to box height */
+
+background: linear-gradient(180deg, #BEDBD0 37.36%, #697973 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Vehicle */
+
+position: absolute;
+width: 89px;
+height: 29px;
+left: 580px;
+top: 108px;
+
+font-family: 'Arial Rounded MT Bold';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 29px;
+/* identical to box height */
+
+background: linear-gradient(180deg, #C1DFD4 50%, #697973 124.14%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Top Cars */
+
+position: absolute;
+width: 169px;
+height: 45px;
+left: 794px;
+top: 1219px;
+
+font-family: 'Arial Rounded MT Bold';
+font-style: normal;
+font-weight: 400;
+font-size: 39px;
+line-height: 45px;
+
+color: #C1DFD4;
+
+
+
+/* Shop */
+
+position: absolute;
+width: 63px;
+height: 29px;
+left: 751px;
+top: 108px;
+
+font-family: 'Arial Rounded MT Bold';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 29px;
+/* identical to box height */
+
+background: linear-gradient(180deg, #C1DFD4 50%, #697973 160.34%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Cart */
+
+position: absolute;
+width: 54px;
+height: 29px;
+left: 896px;
+top: 108px;
+
+font-family: 'Arial Rounded MT Bold';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 29px;
+/* identical to box height */
+
+background: linear-gradient(180deg, #C1DFD4 50%, #697973 120.69%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* About us */
+
+position: absolute;
+width: 108px;
+height: 29px;
+left: 1032px;
+top: 108px;
+
+font-family: 'Arial Rounded MT Bold';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 29px;
+/* identical to box height */
+
+background: linear-gradient(180deg, #C1DFD4 50%, #697973 125.86%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Contact */
+
+position: absolute;
+width: 97px;
+height: 29px;
+left: 1222px;
+top: 108px;
+
+font-family: 'Arial Rounded MT Bold';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 29px;
+/* identical to box height */
+
+background: linear-gradient(180deg, #C1DFD4 50%, #697973 125.86%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* User / User_Circle */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 1578px;
+top: 85px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* View All */
+
+position: absolute;
+width: 139px;
+height: 49px;
+left: 824px;
+top: 1290px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 30px;
+/* or 107% */
+
+background: linear-gradient(181.14deg, #000000 -43.05%, #666666 99.02%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Rectangle 30 */
+
+position: absolute;
+width: 1728px;
+height: 674px;
+left: 0px;
+top: 4769px;
+
+background: #1A2931;
+border-radius: 45px 45px 0px 0px;
+
+
+/* Rectangle 31 */
+
+position: absolute;
+width: 1509px;
+height: 381px;
+left: 109px;
+top: 4526px;
+
+background: #263842;
+backdrop-filter: blur(50px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 45px 45px 0px 0px;
+
+
+/* GET IN TOUCH */
+
+position: absolute;
+width: 425px;
+height: 74px;
+left: 639px;
+top: 4557px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 72px;
+line-height: 74px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* We’re here to help answer any question you might have.We look forward to hearing from you. */
+
+position: absolute;
+width: 1182px;
+height: 138px;
+left: 286px;
+top: 4664px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 62px;
+
+color: #FBF8EF;
+
+
+
+/* Group 16 */
+
+position: absolute;
+width: 1063px;
+height: 133px;
+left: 501px;
+top: 4969px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 1063px;
+height: 133px;
+left: 501px;
+top: 4969px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 1063px;
+height: 133px;
+left: 501px;
+top: 4969px;
+
+
+
+/* Join us on social media */
+
+position: absolute;
+width: 905px;
+height: 82px;
+left: 501px;
+top: 4969px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 82px;
+
+color: #FFFFFF;
+
+
+
+/* Join us on social media */
+
+position: absolute;
+width: 905px;
+height: 41px;
+left: 659px;
+top: 5061px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 41px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Social Icons */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 764px;
+top: 5171px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 7.93%;
+bottom: 9.21%;
+
+background: #FFFFFF;
+
+
+/* Social Icons */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 877px;
+top: 5171px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.06%;
+top: 0%;
+bottom: 0.02%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.32%;
+right: 24.32%;
+top: 24.32%;
+bottom: 24.32%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.7%;
+right: 17.3%;
+top: 17.3%;
+bottom: 70.7%;
+
+background: #FFFFFF;
+
+
+/* Social Icons */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 990px;
+top: 5171px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 2%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 2%;
+top: 40.91%;
+bottom: 12.09%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.36%;
+right: 16.91%;
+top: 59.52%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 78%;
+top: 27.59%;
+bottom: 27.59%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.36%;
+right: 16.55%;
+top: 0%;
+bottom: 59.5%;
+
+background: #FFFFFF;
+
+
+/* Social Icons */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 1103px;
+top: 5171px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 14.82%;
+bottom: 14.84%;
+
+background: #FFFFFF;
+
+
+/* Social Icons */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 538px;
+top: 5171px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.48%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* image */
+
+position: absolute;
+width: 1165px;
+height: 843px;
+left: -287px;
+top: 2195px;
+
+background: url(image);
+
+
+/* image */
+
+position: absolute;
+width: 1728px;
+height: 828px;
+left: 0px;
+top: 3298px;
+
+background: url(image);
+border-radius: 25px 25px 0px 0px;
+
+
+/* COLLABORATION : FUTURE OF AUTOMOTIVE DEVEOPMENT */
+
+position: absolute;
+width: 1820px;
+height: 134px;
+left: 99px;
+top: 3244px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 65px;
+line-height: 67px;
+
+color: #BEDBD0;
+
+
+
+/* SERVICES OFFERED */
+
+position: absolute;
+width: 570px;
+height: 74px;
+left: 969px;
+top: 2256px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 72px;
+line-height: 74px;
+/* identical to box height */
+
+color: #0D5256;
+
+
+
+/* Group 13 */
+
+position: absolute;
+width: 681px;
+height: 414px;
+left: 923px;
+top: 2410px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 681px;
+height: 414px;
+left: 923px;
+top: 2410px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 681px;
+height: 414px;
+left: 923px;
+top: 2410px;
+
+
+
+/* These portals facilitate vehicle research, financing, insurance, and the purchase or sale of both new and used cars. They also provide tools for lead management, budget management, scheduling, and data security, aiming to enhance the overall customer experience and streamline various automotive-related processes.  */
+
+position: absolute;
+width: 681px;
+height: 414px;
+left: 923px;
+top: 2410px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 46px;
+
+color: #263842;
+
+
+
+/* Group 14 */
+
+position: absolute;
+width: 1605px;
+height: 321px;
+left: 74px;
+top: 4181px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 1605px;
+height: 321px;
+left: 74px;
+top: 4181px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 1605px;
+height: 321px;
+left: 74px;
+top: 4181px;
+
+
+
+/* The global automotive industry, as we know it, is going through a massive transformation with a wave of Connected, Autonomous, Shared & Electric (CASE) mobility trends. To ride this wave of “software-driven automobiles” of the future, the automakers are redefining their businesses across all dimensions Including product definition, engineering, manufacturing, supply chains & business models. */
+
+position: absolute;
+width: 1605px;
+height: 321px;
+left: 74px;
+top: 4181px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 46px;
+
+color: #FFFFFF;
+
+
+
+/* Creating new markets */
+
+position: absolute;
+width: 414px;
+height: 45px;
+left: 99px;
+top: 3818px;
+
+font-family: 'Arial Rounded MT Bold';
+font-style: normal;
+font-weight: 400;
+font-size: 39px;
+line-height: 45px;
+
+color: #0D5256;
+
+
+
+/* Accelerated growth */
+
+position: absolute;
+width: 374px;
+height: 45px;
+left: 99px;
+top: 3648px;
+
+font-family: 'Arial Rounded MT Bold';
+font-style: normal;
+font-weight: 400;
+font-size: 39px;
+line-height: 45px;
+
+color: #0D5256;
+
+
+
+/* Share costs */
+
+position: absolute;
+width: 225px;
+height: 45px;
+left: 99px;
+top: 3563px;
+
+font-family: 'Arial Rounded MT Bold';
+font-style: normal;
+font-weight: 400;
+font-size: 39px;
+line-height: 45px;
+
+color: #0D5256;
+
+
+
+/* Supply Chain Shifts */
+
+position: absolute;
+width: 368px;
+height: 45px;
+left: 99px;
+top: 3733px;
+
+font-family: 'Arial Rounded MT Bold';
+font-style: normal;
+font-weight: 400;
+font-size: 39px;
+line-height: 45px;
+
+color: #0D5256;
+
+
+
+/* Build “whole product” offering */
+
+position: absolute;
+width: 573px;
+height: 45px;
+left: 99px;
+top: 3478px;
+
+font-family: 'Arial Rounded MT Bold';
+font-style: normal;
+font-weight: 400;
+font-size: 39px;
+line-height: 45px;
+
+color: #0D5256;
+
+
+
+/* Frame 1 */
+
+position: absolute;
+width: 1606px;
+height: 580px;
+left: 99px;
+top: 1413px;
+overflow-x: scroll;
+
+
+
+/* Rectangle 24 */
+
+position: absolute;
+width: 639px;
+height: 580px;
+left: 803px;
+top: 0px;
+
+background: #FFB433;
+border-radius: 13px;
+
+
+/* Rectangle 25 */
+
+position: absolute;
+width: 565px;
+height: 345px;
+left: 840px;
+top: 40px;
+
+background: #FBF8EF;
+border-radius: 9px;
+
+
+/* image 48 */
+
+position: absolute;
+width: 77px;
+height: 77px;
+left: 1320px;
+top: 471px;
+
+background: url(image.png);
+
+
+/* Product Name */
+
+position: absolute;
+width: 317px;
+height: 46px;
+left: 840px;
+top: 425px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Rectangle 26 */
+
+position: absolute;
+width: 639px;
+height: 580px;
+left: 803px;
+top: 0px;
+
+background: #80CBC4;
+border-radius: 13px;
+
+
+/* Interface / Heart_01 */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 1320px;
+top: 450px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 18.92%;
+bottom: 14.58%;
+
+
+
+/* image */
+
+position: absolute;
+width: 565px;
+height: 345px;
+left: 840px;
+top: 40px;
+
+background: url(image);
+border-radius: 9px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* BMW x7 */
+
+position: absolute;
+width: 315px;
+height: 46px;
+left: 847px;
+top: 425px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 25px;
+
+color: #000000;
+
+
+
+/* Group 9 */
+
+position: absolute;
+width: 262.57px;
+height: 77px;
+left: 840px;
+top: 474px;
+
+
+
+/* Group 8 */
+
+position: absolute;
+width: 262.57px;
+height: 77px;
+left: 840px;
+top: 474px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 262.57px;
+height: 77px;
+left: 840px;
+top: 474px;
+
+background: rgba(255, 254, 254, 0.01);
+box-shadow: inset 0px 0px 0px 5px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(22.5px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 209px;
+
+
+/* View */
+
+position: absolute;
+width: 101.14px;
+height: 50px;
+left: 886px;
+top: 487px;
+
+font-family: 'Milonga';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 56px;
+
+background: linear-gradient(50.95deg, #000000 -129.2%, #666666 184.47%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Arrow / Chevron_Right_Duo */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 1016px;
+top: 476px;
+
+
+
+/* Vector */
+
+position: absolute;
+height: 25px;
+left: 29.17%;
+right: 29.17%;
+top: calc(50% - 25px/2 - 0px);
+
+box-shadow: -8px 0px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Arrow / Chevron_Right_Duo */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 1016px;
+top: 476px;
+
+
+
+/* Vector */
+
+position: absolute;
+height: 25px;
+left: 29.17%;
+right: 29.17%;
+top: calc(50% - 25px/2 - 0px);
+
+box-shadow: -8px 0px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 565px;
+height: 346px;
+left: 37px;
+top: 39px;
+
+background: #FBF8EF;
+border-radius: 9px;
+
+
+/* image 6 */
+
+position: absolute;
+width: 77px;
+height: 77px;
+left: 517px;
+top: 471px;
+
+background: url(image.png);
+
+
+/* Product Name */
+
+position: absolute;
+width: 316px;
+height: 45px;
+left: 37px;
+top: 425px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 639px;
+height: 580px;
+left: 0px;
+top: 0px;
+
+background: #80CBC4;
+border-radius: 13px;
+
+
+/* image */
+
+position: absolute;
+width: 565px;
+height: 345px;
+left: 37px;
+top: 39px;
+
+background: url(image);
+border-radius: 9px;
+
+
+/* Mahindra XUV 3XO */
+
+position: absolute;
+width: 316px;
+height: 45px;
+left: 1643px;
+top: 425px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+/* or 120% */
+
+color: #000000;
+
+
+
+/* Interface / Heart_01 */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 517px;
+top: 471px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 18.92%;
+bottom: 14.58%;
+
+
+
+/* Lamborghini Huracan STO */
+
+position: absolute;
+width: 316px;
+height: 45px;
+left: 37px;
+top: 425px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+/* or 120% */
+
+color: #000000;
+
+
+
+/* Group 10 */
+
+position: absolute;
+width: 262.57px;
+height: 77px;
+left: 37px;
+top: 475px;
+
+
+
+/* Group 8 */
+
+position: absolute;
+width: 262.57px;
+height: 77px;
+left: 37px;
+top: 475px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 262.57px;
+height: 77px;
+left: 37px;
+top: 475px;
+
+background: rgba(255, 254, 254, 0.01);
+box-shadow: inset 0px 0px 0px 5px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(22.5px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 209px;
+
+
+/* View */
+
+position: absolute;
+width: 101.14px;
+height: 50px;
+left: 83px;
+top: 488px;
+
+font-family: 'Milonga';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 56px;
+
+background: linear-gradient(50.95deg, #000000 -129.2%, #666666 184.47%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Arrow / Chevron_Right_Duo */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 213px;
+top: 477px;
+
+
+
+/* Vector */
+
+position: absolute;
+height: 25px;
+left: 29.17%;
+right: 29.17%;
+top: calc(50% - 25px/2 - 0px);
+
+box-shadow: -8px 0px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Arrow / Chevron_Right_Duo */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 213px;
+top: 477px;
+
+
+
+/* Vector */
+
+position: absolute;
+height: 25px;
+left: 29.17%;
+right: 29.17%;
+top: calc(50% - 25px/2 - 0px);
+
+box-shadow: -8px 0px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 34 */
+
+position: absolute;
+width: 565px;
+height: 346px;
+left: 2446px;
+top: 39px;
+
+background: #FBF8EF;
+border-radius: 9px;
+
+
+/* image 49 */
+
+position: absolute;
+width: 77px;
+height: 77px;
+left: 2926px;
+top: 471px;
+
+background: url(image.png);
+
+
+/* Product Name */
+
+position: absolute;
+width: 316px;
+height: 45px;
+left: 2446px;
+top: 425px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Rectangle 35 */
+
+position: absolute;
+width: 639px;
+height: 580px;
+left: 2409px;
+top: 0px;
+
+background: #80CBC4;
+border-radius: 13px;
+
+
+/* image */
+
+position: absolute;
+width: 565px;
+height: 346px;
+left: 2446px;
+top: 39px;
+
+background: url(image);
+border-radius: 9px;
+
+
+/* Interface / Heart_01 */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 2926px;
+top: 471px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 18.92%;
+bottom: 14.58%;
+
+
+
+/* Bugatti Tourbillon */
+
+position: absolute;
+width: 316px;
+height: 45px;
+left: 2446px;
+top: 425px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+/* or 120% */
+
+color: #000000;
+
+
+
+/* Group 22 */
+
+position: absolute;
+width: 262.57px;
+height: 77px;
+left: 2446px;
+top: 475px;
+
+
+
+/* Group 8 */
+
+position: absolute;
+width: 262.57px;
+height: 77px;
+left: 2446px;
+top: 475px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 262.57px;
+height: 77px;
+left: 2446px;
+top: 475px;
+
+background: rgba(255, 254, 254, 0.01);
+box-shadow: inset 0px 0px 0px 5px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(22.5px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 209px;
+
+
+/* View */
+
+position: absolute;
+width: 101.14px;
+height: 50px;
+left: 2492px;
+top: 488px;
+
+font-family: 'Milonga';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 56px;
+
+background: linear-gradient(50.95deg, #000000 -129.2%, #666666 184.47%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Arrow / Chevron_Right_Duo */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 2622px;
+top: 477px;
+
+
+
+/* Vector */
+
+position: absolute;
+height: 25px;
+left: 29.17%;
+right: 29.17%;
+top: calc(50% - 25px/2 - 0px);
+
+box-shadow: -8px 0px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Arrow / Chevron_Right_Duo */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 2622px;
+top: 477px;
+
+
+
+/* Vector */
+
+position: absolute;
+height: 25px;
+left: 29.17%;
+right: 29.17%;
+top: calc(50% - 25px/2 - 0px);
+
+box-shadow: -8px 0px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 34 */
+
+position: absolute;
+width: 565px;
+height: 346px;
+left: 1643px;
+top: 39px;
+
+background: #FBF8EF;
+border-radius: 9px;
+
+
+/* image 49 */
+
+position: absolute;
+width: 77px;
+height: 77px;
+left: 2123px;
+top: 471px;
+
+background: url(image.png);
+
+
+/* Product Name */
+
+position: absolute;
+width: 316px;
+height: 45px;
+left: 1643px;
+top: 425px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Rectangle 35 */
+
+position: absolute;
+width: 639px;
+height: 580px;
+left: 1606px;
+top: 0px;
+
+background: #80CBC4;
+border-radius: 13px;
+
+
+/* image */
+
+position: absolute;
+width: 565px;
+height: 346px;
+left: 1643px;
+top: 39px;
+
+background: url(image);
+border-radius: 9px;
+
+
+/* Interface / Heart_01 */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 2123px;
+top: 471px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 18.92%;
+bottom: 14.58%;
+
+
+
+/* Mahindra XUV 3XO */
+
+position: absolute;
+width: 316px;
+height: 45px;
+left: 1643px;
+top: 425px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+/* or 120% */
+
+color: #000000;
+
+
+
+/* Group 22 */
+
+position: absolute;
+width: 262.57px;
+height: 77px;
+left: 1643px;
+top: 475px;
+
+
+
+/* Group 8 */
+
+position: absolute;
+width: 262.57px;
+height: 77px;
+left: 1643px;
+top: 475px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 262.57px;
+height: 77px;
+left: 1643px;
+top: 475px;
+
+background: rgba(255, 254, 254, 0.01);
+box-shadow: inset 0px 0px 0px 5px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(22.5px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 209px;
+
+
+/* View */
+
+position: absolute;
+width: 101.14px;
+height: 50px;
+left: 1689px;
+top: 488px;
+
+font-family: 'Milonga';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 56px;
+
+background: linear-gradient(50.95deg, #000000 -129.2%, #666666 184.47%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Arrow / Chevron_Right_Duo */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 1819px;
+top: 477px;
+
+
+
+/* Vector */
+
+position: absolute;
+height: 25px;
+left: 29.17%;
+right: 29.17%;
+top: calc(50% - 25px/2 - 0px);
+
+box-shadow: -8px 0px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Arrow / Chevron_Right_Duo */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 1819px;
+top: 477px;
+
+
+
+/* Vector */
+
+position: absolute;
+height: 25px;
+left: 29.17%;
+right: 29.17%;
+top: calc(50% - 25px/2 - 0px);
+
+box-shadow: -8px 0px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Vector */
+
+position: absolute;
+left: 37.67%;
+right: 59.55%;
+top: 94.38%;
+bottom: 4.75%;
+
+background: #FFFFFF;
+
+
+/* MacBook Pro 16" - 2 */
+
+position: relative;
+width: 1728px;
+height: 5443px;
+
+background: linear-gradient(180deg, #2F1D33 0%, #2C1A2D 100%);
+
+
+/* Rectangle 28 */
+
+position: absolute;
+width: 825px;
+height: 823px;
+left: 796px;
+top: 3080px;
+
+background: #8D5799;
+border-radius: 25px;
+
+
+/* Rectangle 29 */
+
+position: absolute;
+width: 825px;
+height: 683px;
+left: 84px;
+top: 3901px;
+
+background: #24082A;
+border-radius: 25px;
+
+
+/* image 55 */
+
+position: absolute;
+width: 2056px;
+height: 1563px;
+left: -55px;
+top: 1153px;
+
+background: url(image);
+border-radius: 37px;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* image */
+
+position: absolute;
+width: 353px;
+height: 229px;
+left: 20px;
+top: 141px;
+
+background: #000000;
+filter: blur(29px);
+border-radius: 22px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* BMW x7 */
+
+position: absolute;
+width: 283px;
+height: 22px;
+left: 40px;
+top: 376px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 28px;
+
+background: linear-gradient(210.7deg, #FBF8EF -102.5%, #666666 137.74%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* image */
+
+position: absolute;
+width: 1728px;
+height: 1153px;
+left: 0px;
+top: 0px;
+
+background: url(image);
+border-radius: 22px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 146.87px;
+height: 146.87px;
+left: 80.01px;
+top: 1333.13px;
+
+background: #FBF8EF;
+filter: blur(6.5px);
+
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 120.16px;
+height: 120.16px;
+left: 93.36px;
+top: 1346.48px;
+
+background: #2F1D33;
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 120.16px;
+height: 120.16px;
+left: 93.36px;
+top: 1346.48px;
+
+background: #2F1D33;
+
+
+/* Ellipse 7 */
+
+position: absolute;
+width: 120.16px;
+height: 120.16px;
+left: 93.36px;
+top: 1346.48px;
+
+background: #2F1D33;
+
+
+/* Colurs : */
+
+position: absolute;
+width: 873.2px;
+height: 80.11px;
+left: 72px;
+top: 1237px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 30px;
+/* or 60% */
+
+background: linear-gradient(175.95deg, #FFFFFF -57.96%, #999999 121.58%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* A statement of the luxury class: the BMW X7. Unprecedented 21" M Light alloy wheels. Up to seven first-class seats for a uniquely comfortable ride. Panorama glass roof produces a sensation of unrestricted spaciousness. The elegant fusion of presence and personality. */
+
+position: absolute;
+width: 1666px;
+height: 544px;
+left: 52px;
+top: 1549px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 47px;
+line-height: 85px;
+/* or 181% */
+
+color: #D9D9D9;
+
+
+
+/* Arrow / Caret_Circle_Left */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 34px;
+top: 52px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Group 7 */
+
+position: absolute;
+width: 1736px;
+height: 404px;
+left: -5px;
+top: 4584px;
+
+
+
+/* image 56 */
+
+position: absolute;
+width: 1736px;
+height: 404px;
+left: -5px;
+top: 4584px;
+
+background: url(image);
+backdrop-filter: blur(45px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 0px 0px 61px 61px;
+
+
+/* Starting from */
+
+position: absolute;
+width: 506.99px;
+height: 38.4px;
+left: 171.27px;
+top: 4692.8px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 48px;
+
+color: #FBF8EF;
+
+
+
+/* ₹7.99L - ₹15.79L */
+
+position: absolute;
+width: 783.27px;
+height: 62.22px;
+left: 171.59px;
+top: 4779.2px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 60px;
+
+color: #FBF8EF;
+
+
+
+/* Ex-showroom price in Delhi */
+
+position: absolute;
+width: 1012.71px;
+height: 46.67px;
+left: 171.59px;
+top: 4863.2px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 40px;
+
+color: #FBF8EF;
+
+
+
+/* A FIRST CLASS HAVEN */
+
+position: absolute;
+width: 658px;
+height: 74px;
+left: 539px;
+top: 2778px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 72px;
+line-height: 74px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* In the new X7, luxury surrounds you in every stitch. */
+
+position: absolute;
+width: 1322px;
+height: 76px;
+left: 227px;
+top: 2914px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 65px;
+line-height: 67px;
+
+color: #FFFFFF;
+
+
+
+/* image 57 */
+
+position: absolute;
+width: 821px;
+height: 821px;
+left: 0px;
+top: 3080px;
+
+background: url(image);
+
+
+/* image 58 */
+
+position: absolute;
+width: 907.6px;
+height: 681px;
+left: 820px;
+top: 3903px;
+
+background: url(image);
+
+
+/* Group 13 */
+
+position: absolute;
+width: 681px;
+height: 354px;
+left: 868px;
+top: 3155px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 681px;
+height: 354px;
+left: 868px;
+top: 3155px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 681px;
+height: 354px;
+left: 868px;
+top: 3155px;
+
+
+
+/* REVOLUTIONARY TECHNOLOGY IN TOTAL HARMONY */
+
+position: absolute;
+width: 551px;
+height: 246px;
+left: 868px;
+top: 3155px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 82px;
+
+color: #FFFFFF;
+
+
+
+/* Driving Assistant Professional. */
+
+position: absolute;
+width: 681px;
+height: 46px;
+left: 868px;
+top: 3463px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 40px;
+
+color: #FFFEFE;
+
+
+
+/* Group 20 */
+
+position: absolute;
+width: 1440px;
+height: 1197px;
+left: 143px;
+top: 3955px;
+
+
+
+/* Group 19 */
+
+position: absolute;
+width: 1440px;
+height: 1197px;
+left: 143px;
+top: 3955px;
+
+
+
+/* Group 18 */
+
+position: absolute;
+width: 1440px;
+height: 1197px;
+left: 143px;
+top: 3955px;
+
+
+
+/* Group 15 */
+
+position: absolute;
+width: 551px;
+height: 164px;
+left: 143px;
+top: 3955px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 551px;
+height: 164px;
+left: 143px;
+top: 3955px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 551px;
+height: 164px;
+left: 143px;
+top: 3955px;
+
+
+
+/* Remote Software Upgrade. */
+
+position: absolute;
+width: 551px;
+height: 164px;
+left: 143px;
+top: 3955px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 82px;
+
+color: #FFFFFF;
+
+
+
+/* Group 16 */
+
+position: absolute;
+width: 1063px;
+height: 133px;
+left: 520px;
+top: 5019px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 1063px;
+height: 133px;
+left: 520px;
+top: 5019px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 1063px;
+height: 133px;
+left: 520px;
+top: 5019px;
+
+
+
+/* Join us on social media */
+
+position: absolute;
+width: 905px;
+height: 82px;
+left: 520px;
+top: 5019px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 82px;
+
+color: #FFFFFF;
+
+
+
+/* Join us on social media */
+
+position: absolute;
+width: 905px;
+height: 41px;
+left: 678px;
+top: 5111px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 41px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Group 17 */
+
+position: absolute;
+width: 387px;
+height: 48px;
+left: 670px;
+top: 5206px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 38.77%;
+right: 58.45%;
+top: 95.65%;
+bottom: 3.48%;
+
+background: #FFFFFF;
+
+
+/* Social Icons */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 783px;
+top: 5206px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 7.93%;
+bottom: 9.21%;
+
+background: #FFFFFF;
+
+
+/* Social Icons */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 896px;
+top: 5206px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.06%;
+top: 0%;
+bottom: 0.02%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.32%;
+right: 24.32%;
+top: 24.32%;
+bottom: 24.32%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.7%;
+right: 17.3%;
+top: 17.3%;
+bottom: 70.7%;
+
+background: #FFFFFF;
+
+
+/* Social Icons */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 1009px;
+top: 5206px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 2%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 2%;
+top: 40.91%;
+bottom: 12.09%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.36%;
+right: 16.91%;
+top: 59.52%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 78%;
+top: 27.59%;
+bottom: 27.59%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.36%;
+right: 16.55%;
+top: 0%;
+bottom: 59.5%;
+
+background: #FFFFFF;
+
+
+/* Group 13 */
+
+position: absolute;
+width: 711px;
+height: 322px;
+left: 872px;
+top: 3525px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 711px;
+height: 322px;
+left: 872px;
+top: 3525px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 711px;
+height: 322px;
+left: 872px;
+top: 3525px;
+
+
+
+/* Simply sit back and relax as the optional Driving Assistant Professional automatically assists you with everyday driving tasks, maintaining your lane, speed and distance as well as reducing the risk of accidents certain situations. */
+
+position: absolute;
+width: 711px;
+height: 322px;
+left: 872px;
+top: 3525px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 46px;
+
+color: #FFFFFF;
+
+
+
+/* Group 14 */
+
+position: absolute;
+width: 668px;
+height: 230px;
+left: 143px;
+top: 4170px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 668px;
+height: 230px;
+left: 143px;
+top: 4170px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 668px;
+height: 230px;
+left: 143px;
+top: 4170px;
+
+
+
+/* Decide when and where to update your vehicle software entirely over-the-air for stress-free convenience with Remote Software Upgrade. */
+
+position: absolute;
+width: 668px;
+height: 230px;
+left: 143px;
+top: 4170px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 46px;
+
+color: #FFFFFF;
+
+
+
+/* Ellipse 8 */
+
+position: absolute;
+width: 120.16px;
+height: 120.16px;
+left: 323px;
+top: 1346px;
+
+background: #263842;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 288px;
+height: 106px;
+left: 122px;
+top: 35px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 288px;
+height: 106px;
+left: 122px;
+top: 35px;
+
+background: rgba(255, 254, 254, 0.01);
+box-shadow: 8px 10px 0px -1px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(22.5px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 209px;
+
+
+/* BMW X7 */
+
+position: absolute;
+width: 208px;
+height: 56px;
+left: 162px;
+top: 60px;
+
+font-family: 'Milonga';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 56px;
+
+background: linear-gradient(188.81deg, #000000 -48.95%, #999999 1141.8%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* MacBook Pro 16" - 3 */
+
+position: relative;
+width: 1728px;
+height: 5443px;
+
+background: linear-gradient(178.91deg, #101D24 0.93%, #192930 98.47%);
+
+
+/* Rectangle 28 */
+
+position: absolute;
+width: 825px;
+height: 823px;
+left: 796px;
+top: 3080px;
+
+background: #284F62;
+border-radius: 25px;
+
+
+/* Rectangle 29 */
+
+position: absolute;
+width: 825px;
+height: 683px;
+left: 84px;
+top: 3901px;
+
+background: #091920;
+border-radius: 25px;
+
+
+/* image 55 */
+
+position: absolute;
+width: 2056px;
+height: 1563px;
+left: -55px;
+top: 1153px;
+
+background: url(image);
+border-radius: 37px;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Group 4 */
+
+position: absolute;
+width: 873.2px;
+height: 235.87px;
+left: 72px;
+top: 1237px;
+
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 146.87px;
+height: 146.87px;
+left: 326px;
+top: 1326px;
+
+background: #FBF8EF;
+filter: blur(6.5px);
+
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 120.16px;
+height: 120.16px;
+left: 93.36px;
+top: 1346.48px;
+
+background: #2F1D33;
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 120.16px;
+height: 120.16px;
+left: 93.36px;
+top: 1346.48px;
+
+background: #2F1D33;
+
+
+/* Colurs : */
+
+position: absolute;
+width: 873.2px;
+height: 80.11px;
+left: 72px;
+top: 1237px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 30px;
+/* or 60% */
+
+background: linear-gradient(175.95deg, #FFFFFF -57.96%, #999999 121.58%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Ellipse 7 */
+
+position: absolute;
+width: 120.16px;
+height: 120.16px;
+left: 339.03px;
+top: 1338.47px;
+
+background: #263842;
+
+
+/* A statement of the luxury class: the BMW X7. Unprecedented 21" M Light alloy wheels. Up to seven first-class seats for a uniquely comfortable ride. Panorama glass roof produces a sensation of unrestricted spaciousness. The elegant fusion of presence and personality. */
+
+position: absolute;
+width: 1666px;
+height: 544px;
+left: 52px;
+top: 1549px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 47px;
+line-height: 85px;
+/* or 181% */
+
+color: #D9D9D9;
+
+
+
+/* Group 7 */
+
+position: absolute;
+width: 1736px;
+height: 404px;
+left: -5px;
+top: 4584px;
+
+
+
+/* image 56 */
+
+position: absolute;
+width: 1736px;
+height: 404px;
+left: -5px;
+top: 4584px;
+
+background: url(image);
+backdrop-filter: blur(45px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 0px 0px 61px 61px;
+
+
+/* Starting from */
+
+position: absolute;
+width: 506.99px;
+height: 38.4px;
+left: 171.27px;
+top: 4692.8px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 48px;
+
+color: #FBF8EF;
+
+
+
+/* ₹7.99L - ₹15.79L */
+
+position: absolute;
+width: 783.27px;
+height: 62.22px;
+left: 171.59px;
+top: 4779.2px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 60px;
+
+color: #FBF8EF;
+
+
+
+/* Ex-showroom price in Delhi */
+
+position: absolute;
+width: 1012.71px;
+height: 46.67px;
+left: 171.59px;
+top: 4863.2px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 40px;
+
+color: #FBF8EF;
+
+
+
+/* A FIRST CLASS HAVEN */
+
+position: absolute;
+width: 658px;
+height: 74px;
+left: 539px;
+top: 2778px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 72px;
+line-height: 74px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* A FIRST CLASS HAVEN */
+
+position: absolute;
+width: 658px;
+height: 74px;
+left: 539px;
+top: 2778px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 72px;
+line-height: 74px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* In the new X7, luxury surrounds you in every stitch. */
+
+position: absolute;
+width: 1322px;
+height: 76px;
+left: 227px;
+top: 2914px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 65px;
+line-height: 67px;
+
+color: #FFFFFF;
+
+
+
+/* image 57 */
+
+position: absolute;
+width: 821px;
+height: 821px;
+left: 0px;
+top: 3080px;
+
+background: url(image);
+
+
+/* image 58 */
+
+position: absolute;
+width: 907.6px;
+height: 681px;
+left: 820px;
+top: 3903px;
+
+background: url(image);
+
+
+/* Group 21 */
+
+position: absolute;
+width: 681px;
+height: 354px;
+left: 868px;
+top: 3155px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 681px;
+height: 354px;
+left: 868px;
+top: 3155px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 681px;
+height: 354px;
+left: 868px;
+top: 3155px;
+
+
+
+/* REVOLUTIONARY TECHNOLOGY IN TOTAL HARMONY */
+
+position: absolute;
+width: 551px;
+height: 246px;
+left: 868px;
+top: 3155px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 82px;
+
+color: #FFFFFF;
+
+
+
+/* Driving Assistant Professional. */
+
+position: absolute;
+width: 681px;
+height: 46px;
+left: 868px;
+top: 3463px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 40px;
+
+color: #FFFEFE;
+
+
+
+/* Group 20 */
+
+position: absolute;
+width: 1440px;
+height: 1197px;
+left: 143px;
+top: 3955px;
+
+
+
+/* Group 19 */
+
+position: absolute;
+width: 1440px;
+height: 1197px;
+left: 143px;
+top: 3955px;
+
+
+
+/* Group 18 */
+
+position: absolute;
+width: 1440px;
+height: 1197px;
+left: 143px;
+top: 3955px;
+
+
+
+/* Group 15 */
+
+position: absolute;
+width: 551px;
+height: 164px;
+left: 143px;
+top: 3955px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 551px;
+height: 164px;
+left: 143px;
+top: 3955px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 551px;
+height: 164px;
+left: 143px;
+top: 3955px;
+
+
+
+/* Remote Software Upgrade. */
+
+position: absolute;
+width: 551px;
+height: 164px;
+left: 143px;
+top: 3955px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 82px;
+
+color: #FFFFFF;
+
+
+
+/* Group 16 */
+
+position: absolute;
+width: 1063px;
+height: 133px;
+left: 520px;
+top: 5019px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 1063px;
+height: 133px;
+left: 520px;
+top: 5019px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 1063px;
+height: 133px;
+left: 520px;
+top: 5019px;
+
+
+
+/* Join us on social media */
+
+position: absolute;
+width: 905px;
+height: 82px;
+left: 520px;
+top: 5019px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 82px;
+
+color: #FFFFFF;
+
+
+
+/* Join us on social media */
+
+position: absolute;
+width: 905px;
+height: 41px;
+left: 678px;
+top: 5111px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 41px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Group 17 */
+
+position: absolute;
+width: 387px;
+height: 48px;
+left: 670px;
+top: 5206px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 38.77%;
+right: 58.45%;
+top: 95.65%;
+bottom: 3.48%;
+
+background: #FFFFFF;
+
+
+/* Social Icons */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 783px;
+top: 5206px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 7.93%;
+bottom: 9.21%;
+
+background: #FFFFFF;
+
+
+/* Social Icons */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 896px;
+top: 5206px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.06%;
+top: 0%;
+bottom: 0.02%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.32%;
+right: 24.32%;
+top: 24.32%;
+bottom: 24.32%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.7%;
+right: 17.3%;
+top: 17.3%;
+bottom: 70.7%;
+
+background: #FFFFFF;
+
+
+/* Social Icons */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 1009px;
+top: 5206px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 2%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 2%;
+top: 40.91%;
+bottom: 12.09%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.36%;
+right: 16.91%;
+top: 59.52%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 78%;
+top: 27.59%;
+bottom: 27.59%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.36%;
+right: 16.55%;
+top: 0%;
+bottom: 59.5%;
+
+background: #FFFFFF;
+
+
+/* Group 13 */
+
+position: absolute;
+width: 711px;
+height: 322px;
+left: 872px;
+top: 3525px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 711px;
+height: 322px;
+left: 872px;
+top: 3525px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 711px;
+height: 322px;
+left: 872px;
+top: 3525px;
+
+
+
+/* Simply sit back and relax as the optional Driving Assistant Professional automatically assists you with everyday driving tasks, maintaining your lane, speed and distance as well as reducing the risk of accidents certain situations. */
+
+position: absolute;
+width: 711px;
+height: 322px;
+left: 872px;
+top: 3525px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 46px;
+
+color: #FFFFFF;
+
+
+
+/* Group 14 */
+
+position: absolute;
+width: 668px;
+height: 230px;
+left: 143px;
+top: 4170px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 668px;
+height: 230px;
+left: 143px;
+top: 4170px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 668px;
+height: 230px;
+left: 143px;
+top: 4170px;
+
+
+
+/* Decide when and where to update your vehicle software entirely over-the-air for stress-free convenience with Remote Software Upgrade. */
+
+position: absolute;
+width: 668px;
+height: 230px;
+left: 143px;
+top: 4170px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 46px;
+
+color: #FFFFFF;
+
+
+
+/* image */
+
+position: absolute;
+width: 1737px;
+height: 1153px;
+left: 0px;
+top: 0px;
+
+background: url(image);
+border-radius: 18px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Arrow / Caret_Circle_Left */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 34px;
+top: 52px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Group 1 */
+
+position: absolute;
+width: 288px;
+height: 106px;
+left: 122px;
+top: 35px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 288px;
+height: 106px;
+left: 122px;
+top: 35px;
+
+background: rgba(255, 254, 254, 0.01);
+box-shadow: 8px 10px 0px -1px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(22.5px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 209px;
+
+
+/* BMW X7 */
+
+position: absolute;
+width: 208px;
+height: 56px;
+left: 162px;
+top: 60px;
+
+font-family: 'Milonga';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 56px;
+
+background: linear-gradient(188.81deg, #000000 -48.95%, #999999 1141.8%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* MacBook Pro 16" - 4 */
+
+position: relative;
+width: 1728px;
+height: 8739px;
+
+background: #FFFFFF;
+
+
+/* image 63 */
+
+position: absolute;
+width: 1920px;
+height: 707px;
+left: 51px;
+top: 3369px;
+
+background: url(image);
+
+
+/* Rectangle 41 */
+
+position: absolute;
+width: 1112px;
+height: 768px;
+left: 0px;
+top: 3333px;
+
+background: #FFFFFF;
+
+
+/* image 65 */
+
+position: absolute;
+width: 1750.67px;
+height: 1313px;
+left: -28px;
+top: 4059px;
+
+background: url(image);
+
+
+/* image 61 */
+
+position: absolute;
+width: 1920px;
+height: 900px;
+left: -91px;
+top: 1276px;
+
+background: url(image);
+
+
+/* image */
+
+position: absolute;
+width: 1737px;
+height: 1153px;
+left: 0px;
+top: 0px;
+
+background: url(image);
+border-radius: 18px;
+
+
+/* Group 4 */
+
+position: absolute;
+width: 873.2px;
+height: 80.11px;
+left: 40px;
+top: 1217px;
+
+
+
+/* Colurs : */
+
+position: absolute;
+width: 873.2px;
+height: 80.11px;
+left: 40px;
+top: 1217px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 30px;
+/* or 60% */
+
+background: linear-gradient(116.77deg, #FFFFFF -17.58%, #000000 -5.69%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.11%;
+right: 92.64%;
+top: 19.43%;
+bottom: 79.94%;
+
+border: 12px solid #F26202;
+filter: blur(10px);
+transform: rotate(180deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 4.11%;
+right: 92.64%;
+top: 19.43%;
+bottom: 79.94%;
+
+border: 6px solid #4ABDEA;
+transform: rotate(180deg);
+
+
+/* Arrow / Arrow_Sub_Left_Up */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 348px;
+top: 1951px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.42%;
+right: 14.58%;
+top: 27.08%;
+bottom: 27.08%;
+
+border: 10px solid #887E23;
+filter: blur(7px);
+
+
+/* Arrow / Arrow_Sub_Left_Up */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 348px;
+top: 1951px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.42%;
+right: 14.58%;
+top: 27.08%;
+bottom: 27.08%;
+
+border: 4px solid #05040C;
+
+
+/* image 62 */
+
+position: absolute;
+width: 1920px;
+height: 707px;
+left: -670px;
+top: 2368px;
+
+background: url(image);
+
+
+/* Polygon 1 */
+
+position: absolute;
+width: 1625px;
+height: 1234px;
+left: 446px;
+top: 2104px;
+
+background: #FFFFFF;
+transform: rotate(-5deg);
+
+
+/* OVERVIEW */
+
+position: absolute;
+width: 295px;
+height: 74px;
+left: 1177px;
+top: 2571px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 72px;
+line-height: 74px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* OVERVIEW */
+
+position: absolute;
+width: 295px;
+height: 74px;
+left: 1177px;
+top: 2571px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 72px;
+line-height: 74px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Group 22 */
+
+position: absolute;
+width: 711px;
+height: 368px;
+left: 989px;
+top: 2707px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 711px;
+height: 368px;
+left: 989px;
+top: 2707px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 711px;
+height: 368px;
+left: 989px;
+top: 2707px;
+
+
+
+/* A super-sports car created with a singular purpose, the Huracán STO delivers all the feel and technology of a genuine race car in a road-legal model. Lamborghini’s years-long motorsport know-how, intensified by a winning heritage, is concentrated in the new Huracán STO. */
+
+position: absolute;
+width: 711px;
+height: 368px;
+left: 989px;
+top: 2707px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 46px;
+
+color: #000000;
+
+
+
+/* EXTERIOR */
+
+position: absolute;
+width: 280px;
+height: 74px;
+left: 239px;
+top: 3369px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 72px;
+line-height: 74px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* TECHNICAL SPECIFICATIONS */
+
+position: absolute;
+width: 798px;
+height: 74px;
+left: 465px;
+top: 4204px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 72px;
+line-height: 74px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Group 23 */
+
+position: absolute;
+width: 711px;
+height: 368px;
+left: 51px;
+top: 3505px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 711px;
+height: 368px;
+left: 51px;
+top: 3505px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 711px;
+height: 368px;
+left: 51px;
+top: 3505px;
+
+
+
+/* A lightweight approach and functional design combine to express pure performance. While its contours may be reminiscent of the Huracán Super Trofeo EVO, the Huracán STO features a completely revised shape that optimizes the vehicle’s aerodynamics */
+
+position: absolute;
+width: 711px;
+height: 368px;
+left: 51px;
+top: 3505px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 46px;
+
+color: #000000;
+
+
+
+/* Group 24 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4379px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4379px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4379px;
+
+
+
+/* Displacement 5,204 cm³ (317.57 cu in) */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4379px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 46px;
+
+color: #000000;
+
+
+
+/* Group 25 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4508px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4508px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4508px;
+
+
+
+/* Max. power 470/640 at 8,000 rpm */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4508px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 46px;
+
+color: #000000;
+
+
+
+/* Line 1 */
+
+position: absolute;
+width: 1007.82px;
+height: 0px;
+left: 370px;
+top: 4450.99px;
+
+border: 1px solid #666666;
+transform: matrix(1, 0, 0, 1, 0, 0);
+
+
+/* Line 2 */
+
+position: absolute;
+width: 1007.82px;
+height: 0px;
+left: 370px;
+top: 4587px;
+
+border: 1px solid #666666;
+transform: matrix(1, 0, 0, 1, 0, 0);
+
+
+/* Group 26 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4644px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4644px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4644px;
+
+
+
+/* Top speed 310 km/h */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4644px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 46px;
+
+color: #000000;
+
+
+
+/* Group 27 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4773px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4773px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4773px;
+
+
+
+/* Acceleration 0-100 km/h 3.0 s */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4773px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 46px;
+
+color: #000000;
+
+
+
+/* Line 3 */
+
+position: absolute;
+width: 1007.82px;
+height: 0px;
+left: 370px;
+top: 4715.99px;
+
+border: 1px solid #666666;
+transform: matrix(1, 0, 0, 1, 0, 0);
+
+
+/* Line 4 */
+
+position: absolute;
+width: 1007.82px;
+height: 0px;
+left: 370px;
+top: 4852px;
+
+border: 1px solid #666666;
+transform: matrix(1, 0, 0, 1, 0, 0);
+
+
+/* Group 28 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4903px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4903px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4903px;
+
+
+
+/* Combined consumption* 13,85 l/100km (WLTP) */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4903px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 46px;
+
+color: #000000;
+
+
+
+/* Group 29 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 5032px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 5032px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 5032px;
+
+
+
+/* Combined CO2 emissions* 331 g/km (WLTP) */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 5032px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 46px;
+
+color: #000000;
+
+
+
+/* Line 5 */
+
+position: absolute;
+width: 1007.82px;
+height: 0px;
+left: 370px;
+top: 4974.99px;
+
+border: 1px solid #666666;
+transform: matrix(1, 0, 0, 1, 0, 0);
+
+
+/* Line 6 */
+
+position: absolute;
+width: 1007.82px;
+height: 0px;
+left: 370px;
+top: 5111px;
+
+border: 1px solid #666666;
+transform: matrix(1, 0, 0, 1, 0, 0);
+
+
+/* image 60 */
+
+position: absolute;
+width: 1852px;
+height: 758px;
+left: -79px;
+top: 5624px;
+
+background: url(image);
+
+
+/* image */
+
+position: absolute;
+width: 2551px;
+height: 1045px;
+left: -360px;
+top: 6382px;
+
+background: url(image);
+
+
+/* Rectangle 39 */
+
+position: absolute;
+width: 1728px;
+height: 1137px;
+left: 0px;
+top: 7602px;
+
+background: #262626;
+
+
+/* Group 12 */
+
+position: absolute;
+width: 1608px;
+height: 574px;
+left: 60px;
+top: 7711px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 1608px;
+height: 574px;
+left: 60px;
+top: 7711px;
+
+
+
+/* The consumption and emissions values in the website refer to your geographical IP. This value might be unrealistic if you navigate using VPN or if the position of your Internet provider is imprecise. If you believe you are incorrectly geolocalized, contact your dealer to get valid consumption and emissions information in your area. Not all contents are available in all markets. Please check with your local Lamborghini Dealer for details and availability. Copyright © 2025 Automobili Lamborghini S.p.A. a company with sole shareholder subject to the management and coordination of AUDI AG. All rights reserved. VAT no. IT 00591801204 WARNING ABOUT ILLEGAL OFFERS OF ALLEGED SHARES OF AUTOMOBILI LAMBORGHINI S.P.A. Automobili Lamborghini S.p.A. got the notice that several third parties across different countries are allegedly offering shares in Automobili Lamborghini S.p.A. These offers are unlawful and originate neither from Volkswagen Aktiengesellschaft nor from any of its subsidiaries. */
+
+position: absolute;
+width: 1608px;
+height: 574px;
+left: 60px;
+top: 7711px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 41px;
+
+color: #FFFFFF;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 1058px;
+height: 157px;
+left: 515px;
+top: 8344px;
+
+
+
+/* Join us on social media */
+
+position: absolute;
+width: 900.74px;
+height: 96.8px;
+left: 515px;
+top: 8344px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 82px;
+
+color: #FFFFFF;
+
+
+
+/* Join us on social media */
+
+position: absolute;
+width: 900.74px;
+height: 48.4px;
+left: 672.26px;
+top: 8452.6px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 41px;
+
+color: #FFFFFF;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 38.19%;
+right: 59.03%;
+top: 97.92%;
+bottom: 1.54%;
+
+background: #FFFFFF;
+
+
+/* Social Icons */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 773px;
+top: 8557px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 7.93%;
+bottom: 9.21%;
+
+background: #FFFFFF;
+
+
+/* Social Icons */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 886px;
+top: 8556px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.06%;
+top: 0%;
+bottom: 0.02%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.32%;
+right: 24.32%;
+top: 24.32%;
+bottom: 24.32%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.7%;
+right: 17.3%;
+top: 17.31%;
+bottom: 70.7%;
+
+background: #FFFFFF;
+
+
+/* Social Icons */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 999px;
+top: 8557px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 2%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 2%;
+top: 40.91%;
+bottom: 12.09%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.36%;
+right: 16.91%;
+top: 59.52%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 78%;
+top: 27.59%;
+bottom: 27.59%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.36%;
+right: 16.55%;
+top: 0%;
+bottom: 59.5%;
+
+background: #FFFFFF;
+
+
+/* Arrow / Caret_Circle_Left */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 34px;
+top: 52px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Group 1 */
+
+position: absolute;
+width: 638px;
+height: 106px;
+left: 127px;
+top: 42px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 638px;
+height: 106px;
+left: 127px;
+top: 42px;
+
+background: rgba(255, 254, 254, 0.01);
+box-shadow: 8px 10px 0px -1px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(22.5px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 209px;
+
+
+/* Lamborghini Huracan STO */
+
+position: absolute;
+width: 557px;
+height: 56px;
+left: 162px;
+top: 65px;
+
+font-family: 'Milonga';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 56px;
+
+background: linear-gradient(188.81deg, #000000 -48.95%, #999999 1141.8%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* MacBook Pro 16" - 5 */
+
+position: relative;
+width: 1728px;
+height: 8739px;
+
+background: #FFFFFF;
+
+
+/* image */
+
+position: absolute;
+width: 1920px;
+height: 707px;
+left: 252px;
+top: 3384px;
+
+background: url(image);
+
+
+/* Rectangle 41 */
+
+position: absolute;
+width: 1112px;
+height: 727px;
+left: 0px;
+top: 3374px;
+
+background: #FFFFFF;
+
+
+/* image 65 */
+
+position: absolute;
+width: 1750.67px;
+height: 1313px;
+left: -28px;
+top: 4091px;
+
+background: url(image);
+
+
+/* image 61 */
+
+position: absolute;
+width: 1920px;
+height: 900px;
+left: -96px;
+top: 1276px;
+
+background: url(image);
+
+
+/* image */
+
+position: absolute;
+width: 2176px;
+height: 1153px;
+left: -448px;
+top: 0px;
+
+background: url(image);
+border-radius: 18px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group 4 */
+
+position: absolute;
+width: 873.2px;
+height: 80.11px;
+left: 45px;
+top: 1215px;
+
+
+
+/* Colurs : */
+
+position: absolute;
+width: 873.2px;
+height: 80.11px;
+left: 45px;
+top: 1215px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 30px;
+/* or 60% */
+
+background: linear-gradient(116.77deg, #FFFFFF -17.58%, #000000 -5.69%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 3.82%;
+right: 92.93%;
+top: 19.43%;
+bottom: 79.94%;
+
+border: 12px solid #F26202;
+filter: blur(10px);
+transform: rotate(180deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 3.82%;
+right: 92.93%;
+top: 19.43%;
+bottom: 79.94%;
+
+border: 6px solid #4ABDEA;
+transform: rotate(180deg);
+
+
+/* Arrow / Arrow_Sub_Left_Up */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 343px;
+top: 1951px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.42%;
+right: 14.58%;
+top: 27.08%;
+bottom: 27.08%;
+
+border: 10px solid #887E23;
+filter: blur(7px);
+
+
+/* Arrow / Arrow_Sub_Left_Up */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 343px;
+top: 1951px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.42%;
+right: 14.58%;
+top: 27.08%;
+bottom: 27.08%;
+
+border: 4px solid #05040C;
+
+
+/* image */
+
+position: absolute;
+width: 1920px;
+height: 707px;
+left: -192px;
+top: 2368px;
+
+background: url(image);
+
+
+/* Polygon 1 */
+
+position: absolute;
+width: 1625px;
+height: 1234px;
+left: 446px;
+top: 2104px;
+
+background: #FFFFFF;
+transform: rotate(-5deg);
+
+
+/* OVERVIEW */
+
+position: absolute;
+width: 295px;
+height: 74px;
+left: 1177px;
+top: 2571px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 72px;
+line-height: 74px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* OVERVIEW */
+
+position: absolute;
+width: 295px;
+height: 74px;
+left: 1177px;
+top: 2571px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 72px;
+line-height: 74px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Group 22 */
+
+position: absolute;
+width: 711px;
+height: 368px;
+left: 989px;
+top: 2707px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 711px;
+height: 368px;
+left: 989px;
+top: 2707px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 711px;
+height: 368px;
+left: 989px;
+top: 2707px;
+
+
+
+/* A super-sports car created with a singular purpose, the Huracán STO delivers all the feel and technology of a genuine race car in a road-legal model. Lamborghini’s years-long motorsport know-how, intensified by a winning heritage, is concentrated in the new Huracán STO. */
+
+position: absolute;
+width: 711px;
+height: 368px;
+left: 989px;
+top: 2707px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 46px;
+
+color: #000000;
+
+
+
+/* EXTERIOR */
+
+position: absolute;
+width: 280px;
+height: 74px;
+left: 239px;
+top: 3369px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 72px;
+line-height: 74px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* TECHNICAL SPECIFICATIONS */
+
+position: absolute;
+width: 798px;
+height: 74px;
+left: 465px;
+top: 4204px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 72px;
+line-height: 74px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Group 23 */
+
+position: absolute;
+width: 711px;
+height: 368px;
+left: 51px;
+top: 3505px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 711px;
+height: 368px;
+left: 51px;
+top: 3505px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 711px;
+height: 368px;
+left: 51px;
+top: 3505px;
+
+
+
+/* A lightweight approach and functional design combine to express pure performance. While its contours may be reminiscent of the Huracán Super Trofeo EVO, the Huracán STO features a completely revised shape that optimizes the vehicle’s aerodynamics */
+
+position: absolute;
+width: 711px;
+height: 368px;
+left: 51px;
+top: 3505px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 46px;
+
+color: #000000;
+
+
+
+/* Group 24 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4379px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4379px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4379px;
+
+
+
+/* Displacement 5,204 cm³ (317.57 cu in) */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4379px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 46px;
+
+color: #000000;
+
+
+
+/* Group 25 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4508px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4508px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4508px;
+
+
+
+/* Max. power 470/640 at 8,000 rpm */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4508px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 46px;
+
+color: #000000;
+
+
+
+/* Line 1 */
+
+position: absolute;
+width: 1007.82px;
+height: 0px;
+left: 370px;
+top: 4450.99px;
+
+border: 1px solid #666666;
+transform: matrix(1, 0, 0, 1, 0, 0);
+
+
+/* Line 2 */
+
+position: absolute;
+width: 1007.82px;
+height: 0px;
+left: 370px;
+top: 4587px;
+
+border: 1px solid #666666;
+transform: matrix(1, 0, 0, 1, 0, 0);
+
+
+/* Group 26 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4644px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4644px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4644px;
+
+
+
+/* Top speed 310 km/h */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4644px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 46px;
+
+color: #000000;
+
+
+
+/* Group 27 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4773px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4773px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4773px;
+
+
+
+/* Acceleration 0-100 km/h 3.0 s */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4773px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 46px;
+
+color: #000000;
+
+
+
+/* Line 3 */
+
+position: absolute;
+width: 1007.82px;
+height: 0px;
+left: 370px;
+top: 4715.99px;
+
+border: 1px solid #666666;
+transform: matrix(1, 0, 0, 1, 0, 0);
+
+
+/* Line 4 */
+
+position: absolute;
+width: 1007.82px;
+height: 0px;
+left: 370px;
+top: 4852px;
+
+border: 1px solid #666666;
+transform: matrix(1, 0, 0, 1, 0, 0);
+
+
+/* Group 28 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4903px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4903px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4903px;
+
+
+
+/* Combined consumption* 13,85 l/100km (WLTP) */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 4903px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 46px;
+
+color: #000000;
+
+
+
+/* Group 29 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 5032px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 5032px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 5032px;
+
+
+
+/* Combined CO2 emissions* 331 g/km (WLTP) */
+
+position: absolute;
+width: 1431px;
+height: 79px;
+left: 370px;
+top: 5032px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 46px;
+
+color: #000000;
+
+
+
+/* Line 5 */
+
+position: absolute;
+width: 1007.82px;
+height: 0px;
+left: 370px;
+top: 4974.99px;
+
+border: 1px solid #666666;
+transform: matrix(1, 0, 0, 1, 0, 0);
+
+
+/* Line 6 */
+
+position: absolute;
+width: 1007.82px;
+height: 0px;
+left: 370px;
+top: 5111px;
+
+border: 1px solid #666666;
+transform: matrix(1, 0, 0, 1, 0, 0);
+
+
+/* image 60 */
+
+position: absolute;
+width: 1852px;
+height: 758px;
+left: -79px;
+top: 5624px;
+
+background: url(image);
+
+
+/* image */
+
+position: absolute;
+width: 2551px;
+height: 1045px;
+left: -360px;
+top: 6382px;
+
+background: url(image);
+
+
+/* Rectangle 39 */
+
+position: absolute;
+width: 1728px;
+height: 1137px;
+left: 0px;
+top: 7602px;
+
+background: #262626;
+
+
+/* Group 12 */
+
+position: absolute;
+width: 1608px;
+height: 574px;
+left: 60px;
+top: 7711px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 1608px;
+height: 574px;
+left: 60px;
+top: 7711px;
+
+
+
+/* The consumption and emissions values in the website refer to your geographical IP. This value might be unrealistic if you navigate using VPN or if the position of your Internet provider is imprecise. If you believe you are incorrectly geolocalized, contact your dealer to get valid consumption and emissions information in your area. Not all contents are available in all markets. Please check with your local Lamborghini Dealer for details and availability. Copyright © 2025 Automobili Lamborghini S.p.A. a company with sole shareholder subject to the management and coordination of AUDI AG. All rights reserved. VAT no. IT 00591801204 WARNING ABOUT ILLEGAL OFFERS OF ALLEGED SHARES OF AUTOMOBILI LAMBORGHINI S.P.A. Automobili Lamborghini S.p.A. got the notice that several third parties across different countries are allegedly offering shares in Automobili Lamborghini S.p.A. These offers are unlawful and originate neither from Volkswagen Aktiengesellschaft nor from any of its subsidiaries. */
+
+position: absolute;
+width: 1608px;
+height: 574px;
+left: 60px;
+top: 7711px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 41px;
+
+color: #FFFFFF;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 1058px;
+height: 157px;
+left: 515px;
+top: 8344px;
+
+
+
+/* Join us on social media */
+
+position: absolute;
+width: 900.74px;
+height: 96.8px;
+left: 515px;
+top: 8344px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 82px;
+
+color: #FFFFFF;
+
+
+
+/* Join us on social media */
+
+position: absolute;
+width: 900.74px;
+height: 48.4px;
+left: 672.26px;
+top: 8452.6px;
+
+font-family: 'Microsoft Yi Baiti';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 41px;
+
+color: #FFFFFF;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 38.19%;
+right: 59.03%;
+top: 97.92%;
+bottom: 1.54%;
+
+background: #FFFFFF;
+
+
+/* Social Icons */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 773px;
+top: 8557px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 7.93%;
+bottom: 9.21%;
+
+background: #FFFFFF;
+
+
+/* Social Icons */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 886px;
+top: 8556px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.06%;
+top: 0%;
+bottom: 0.02%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.32%;
+right: 24.32%;
+top: 24.32%;
+bottom: 24.32%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.7%;
+right: 17.3%;
+top: 17.31%;
+bottom: 70.7%;
+
+background: #FFFFFF;
+
+
+/* Social Icons */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 999px;
+top: 8557px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 2%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 2%;
+top: 40.91%;
+bottom: 12.09%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.36%;
+right: 16.91%;
+top: 59.52%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 78%;
+top: 27.59%;
+bottom: 27.59%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.36%;
+right: 16.55%;
+top: 0%;
+bottom: 59.5%;
+
+background: #FFFFFF;
+
+
+/* Arrow / Caret_Circle_Left */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 34px;
+top: 52px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Group 1 */
+
+position: absolute;
+width: 638px;
+height: 106px;
+left: 127px;
+top: 42px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 638px;
+height: 106px;
+left: 127px;
+top: 42px;
+
+background: rgba(255, 254, 254, 0.01);
+box-shadow: 8px 10px 0px -1px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(22.5px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 209px;
+
+
+/* Lamborghini Huracan STO */
+
+position: absolute;
+width: 557px;
+height: 56px;
+left: 162px;
+top: 65px;
+
+font-family: 'Milonga';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 56px;
+
+background: linear-gradient(188.81deg, #000000 -48.95%, #999999 1141.8%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Rectangle 40 */
+
+position: absolute;
+width: 526.59px;
+height: 268px;
+left: 1418.97px;
+top: 2210px;
+
+background: #FFFFFF;
+transform: rotate(53deg);
+
+
+/* FEEL THE ENGINE */
+
+position: absolute;
+width: 580px;
+height: 80px;
+
+font-family: 'Milonga';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 80px;
+/* identical to box height */
+
+background: linear-gradient(0deg, #000000 -128.12%, #666666 157.5%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 398.97px;
+height: 117px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 398.97px;
+height: 117px;
+
+background: rgba(255, 254, 254, 0.01);
+box-shadow: 8px 10px 0px -1px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(22.5px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 209px;
+
+
+/* Book Now */
+
+position: absolute;
+width: 308px;
+height: 80px;
+
+font-family: 'Milonga';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 80px;
+/* identical to box height */
+
+background: linear-gradient(20.72deg, #1E1E1E -146.35%, #CCBC7B 776.19%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
